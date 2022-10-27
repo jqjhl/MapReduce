@@ -1,3 +1,6 @@
 WordCount$Reduce.class
+SensitiveWord.class
+SensitiveWord$MyMapper.class
 WordCount.class
+SensitiveWord$MyReducer.class
 WordCount$Map.class
